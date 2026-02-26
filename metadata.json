@@ -1,0 +1,5 @@
+{
+  "name": "FairScreen: Bias-Free Resume Evaluator",
+  "description": "An impartial resume screening tool for Data Analyst roles, strictly evaluating skills and experience while eliminating bias from personal attributes.",
+  "requestFramePermissions": []
+}
